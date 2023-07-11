@@ -9,6 +9,16 @@
       "email": "abc@mail.com",
       "password": "$2a$10$rdCL/48Uw2/a/ZJt/hdtaOiNdJCBA6UwtCwNmb5Mkt1c0SUUgtf0e",
       "id": 2
+    },
+    {
+      "email": "thar@gmail.com",
+      "password": "$2a$10$pOfjXV.X8tLcJod//Dqh6ef7u0ho4jQPMwt7X3QgsMdsh.g1OQgLG",
+      "id": 3
+    },
+    {
+      "email": "hello@mail.com",
+      "password": "$2a$10$X6hHweEpygFz6UAUTTBvCepxbiDXFBi/t8U6J9GhYKo2.hl49rJSu",
+      "id": 4
     }
   ]
 }
